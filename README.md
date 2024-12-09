@@ -1,4 +1,4 @@
-# Dynamic Holistic Perception Networks for Enhanced Object RecognitionDHPN-Model-for-Object-Recognition
+# Dynamic Holistic Perception Networks for Enhanced Object Recognition
 A novel neural network architecture that emulates the human brain's ability to perceive objects holistically. Unlike traditional AI models that process images through fixed mechanisms (e.g., pixel-based in CNNs or patch-based in Vision Transformers), this architecture dynamically integrates both global (whole-object) and local (part-based) features based on the complexity and context of the input. The model leverages attention mechanisms to adaptively focus on different aspects of an image, enabling more efficient and accurate object recognition, especially in complex or abstract scenes.
 
 **Problem Addressed:** Current AI models often rely on fixed processing paradigms (local or patch-based), which can limit their ability to generalize and accurately recognize objects in varied contexts.
